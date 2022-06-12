@@ -1,0 +1,44 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+
+	background-position: center;
+
+}
+.sign
+{
+	width: 300px;
+background-color: #000000;
+	border: 1px solid red;
+	padding: 20px;
+	margin: 8% auto 0;
+	text-align: center;
+}
+
+.input
+{
+	
+	padding: 10px;
+	margin: 10px 0;
+	width: 100%;
+	border: 1px solid #999;
+
+}
+button
+{
+	color: #fff;
+	width: 100%;
+	padding: 10px;
+	font-size: 15px;
+	margin: 10px 0;
+	border: none;
+	outline: none;
+	cursor: pointer;
+}
+.signup-btn
+{
+	background-color: #e64040;
+
+}
